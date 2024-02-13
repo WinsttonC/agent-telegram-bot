@@ -120,9 +120,9 @@ $$
 
 - Связь с бизнес-метриками: чем более надежная система, тем меньше финансовых издержек на ее обслуживание — это позволяет сократить общие издержки (Cost Savings)
   
-  $$
-   System\ Reliability = \frac{Total\ work\ time}{Number\ of\ failures}
-   $$
+$$
+System\ Reliability = \frac{Total\ work\ time}{Number\ of\ failures}
+$$
 
 **Consistency of Responses**
 
@@ -132,9 +132,9 @@ $$
 
 - Связь с бизнес-метриками: оценивает эффективность системы при повторяющихся задачах, способствует уменьшению Error Rate Reduction
   
-  $$
-   Consistency\ of\ Responses = \frac{Similar\ answers}{Total\ number\ of\ similar\ requests} ×100
-  $$
+$$
+Consistency\ of\ Responses = \frac{Similar\ answers}{Total\ number\ of\ similar\ requests} ×100
+$$
 
 *Пояснение по формуле: количество похожих ответов рассчитывается на основе ручного тестирования.*
 
