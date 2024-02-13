@@ -134,7 +134,7 @@ $$
   
   $$
    Consistency\ of\ Responses = \frac{Similar\ answers}{Total\ number\ of\ similar\ requests} ×100
-   $$
+  $$
 
 *Пояснение по формуле: количество похожих ответов рассчитывается на основе ручного тестирования.*
 
